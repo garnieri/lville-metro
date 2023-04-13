@@ -3,7 +3,7 @@
 
 Outlined map of downtown Louisville, KY with contextual state map. Overlaid NDVI data shows vegetation on 3D shaded relief. 
 
-This repository page can be accessed at the following URL: https://{garnieri}.github.io/{lville-metro}/
+This repository page can be accessed at the following URL: https://garnieri.github.io/lville-metro/
 
 ![Caption of Map](Layout.jpg)     
 *Downtown Louisville boundary map, Louisville KY*
